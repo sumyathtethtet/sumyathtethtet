@@ -7,7 +7,7 @@
  
 ## Hi there! I'm Su Myat Aung 👋
 
-Junior Software Engineer |Tech Enthusiast
+Software Engineer |Tech Enthusiast
 </div>
 
 <div id="badges" align="center">
