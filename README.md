@@ -18,11 +18,11 @@ Software Engineer |Tech Enthusiast
 
 ## 🚀 About Me
 
-I am a dedicated and performance-driven Junior Software Engineer with over 2 years of hands-on experience in designing and implementing web solutions. I have a solid foundation in both front-end and back-end technologies and am passionate about learning and applying new technologies to solve real-world problems.
+I am a dedicated and performance-driven Software Engineer with over 2 years of hands-on experience in software development, complemented by a Master’s degree in Information Technology with a focus on Machine Learning and Cloud Computing.
 
 - 🌍 Based in London, UK
 - 💼 Currently looking for new opportunities
-- 🔭 Currently learning more about Python, Cloud Computing and Machine Learning
+- 🔭 Currently learning more about Machine Learning, AI, Cloud and Python
 - ⚡ Fun fact: I love traveling, shopping, and listening to music
 - 
 ## 🛠️ Technologies & Tools
